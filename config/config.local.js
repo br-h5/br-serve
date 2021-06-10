@@ -5,9 +5,9 @@ module.exports = {
     dialect: 'mysql',
     host: '127.0.0.1',
     port: 3306,
-    database: 'coco',
+    database: 'banruo',
     username: 'root',
-    password: 'root1234',
+    password: '12345678',
     logging: false,
   },
   cors: {
